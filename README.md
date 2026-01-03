@@ -4,7 +4,7 @@ A fun and interactive browser-based **Snakes and Ladders** game built with **Str
 Play as **Player 1 (P1)** and race against the computer (**P2**) to reach the 100th square.  
 Climb ladders, avoid snakes, and enjoy a smooth and simple experience.
 
-🎮 **Play Now:** [Snakes and Ladders Game](https://snakes-and-ladders-8pkgnhlvb4tbm9zsamffef.streamlit.app/)  
+🎮 **Play Now:** [Snakes and Ladders Game](https://snakes-and-ladders-379.streamlit.app/)  
 
 ---
 
